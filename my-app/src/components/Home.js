@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <h1>Home</h1>
-      <p>Welcome to the home page!</p>
+      <p>여기가 홈이야!</p>
     </div>
   );
 };
